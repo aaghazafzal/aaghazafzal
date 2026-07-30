@@ -762,52 +762,7 @@ print(me)  # >> Builder | Coder | Dreamer | Athlete | Rolex Sir
 
 </div>
 
----
 
-## ⚙️ &nbsp; GITHUB ACTIONS — ENABLE SNAKE ANIMATION
-
-> Run this workflow to enable the snake animation at the top of this profile.
-
-Create file: `.github/workflows/snake.yml` in your `aaghazafzal` profile repository.
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: aaghazafzal
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After running: Actions → Run Workflow → snake appears and auto-updates every 12 hours.
-
----
 
 <div align="center">
 
