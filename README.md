@@ -231,24 +231,53 @@ UI/UX & Animations       ████████████████░░�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaghazafzal&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=ffffff&ring_color=ef4444" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaghazafzal&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=ffffff&langs_count=8" />
+<!-- GitHub Stats Card - via anuraghazra stats (reliable fork) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaghazafzal&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=ffffff&ring_color=ef4444&include_all_commits=true" />
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaghazafzal&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=ffffff&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaghazafzal&theme=radical&hide_border=true&background=0d0d0d&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=888888" />
+<!-- Streak Stats - demolab (most reliable provider) -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=aaghazafzal&theme=dark&hide_border=true&background=0D0D0D&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=888888&border_radius=10" />
+
+</div>
+
+<br>
+
+<!-- Shields.io Quick Stats Badges (always reliable, no API limits) -->
+<div align="center">
+
+![](https://img.shields.io/badge/Total_Repos-Public_%2B_Private-ef4444?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Experience-1.5+_Years-ef4444?style=flat-square&logo=calendar&logoColor=white)
+![](https://img.shields.io/badge/Bots_Built-9%2B_Advanced-ef4444?style=flat-square&logo=telegram&logoColor=white)
+![](https://img.shields.io/badge/Projects_Live-5+_Products-ef4444?style=flat-square&logo=rocket&logoColor=white)
+![](https://img.shields.io/badge/Coffee_Consumed-Unlimited-ef4444?style=flat-square&logo=buymeacoffee&logoColor=white)
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 Achievements & Milestones
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=aaghazafzal&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<!-- GitHub Trophies - gitprofile.vercel.app (alternative reliable provider) -->
+<img src="https://github-profile-trophy.vercel.app/?username=aaghazafzal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
+
+</div>
+
+<br>
+
+<!-- Premium Achievement Badges Grid (always works - no external API dependency) -->
+<div align="center">
+
+| 🏆 Achievement | 🥇 Milestone | ⚡ Power |
+|:---:|:---:|:---:|
+| ![Self-Taught](https://img.shields.io/badge/🎓_Self--Taught-Developer-ef4444?style=for-the-badge&labelColor=0d0d0d) | ![Ecosystem Builder](https://img.shields.io/badge/🌐_Ecosystem-Builder-ef4444?style=for-the-badge&labelColor=0d0d0d) | ![9+ Bots](https://img.shields.io/badge/🤖_9%2B_Bots-Deployed-ef4444?style=for-the-badge&labelColor=0d0d0d) |
+| ![GitHub Student](https://img.shields.io/badge/🎓_GitHub-Student_Pack-181717?style=for-the-badge&logo=github&labelColor=0d0d0d) | ![Full Stack](https://img.shields.io/badge/💻_Full--Stack-Architect-ef4444?style=for-the-badge&labelColor=0d0d0d) | ![1.5yr Builder](https://img.shields.io/badge/🔥_1.5_Years-0_Days_Off-ef4444?style=for-the-badge&labelColor=0d0d0d) |
 
 </div>
 
